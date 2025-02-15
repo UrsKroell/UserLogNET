@@ -1,6 +1,8 @@
 # UserLogNET 
 ### a UserLog SDK for dotnet
 
+![NuGet Version](https://img.shields.io/nuget/v/UserLogNet?style=for-the-badge)
+
 -----
 
 Website: https://getuserlog.com/
