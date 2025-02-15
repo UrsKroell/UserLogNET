@@ -14,6 +14,7 @@
         <PackageLicenseUrl>https://github.com/UrsKroell/UserLogNET/blob/master/LICENSE.md</PackageLicenseUrl>
         <RepositoryUrl>https://github.com/UrsKroell/UserLogNET</RepositoryUrl>
         <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
+        <Copyright>Copyright (c) Urs Kröll 2025</Copyright>
     </PropertyGroup>
 
     <ItemGroup>
