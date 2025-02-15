@@ -2,10 +2,9 @@ name: publish UserLogNET
 on:
   workflow_dispatch:
   push:
-    branches:
-      - master # Your default release branch
-    paths:
-      - 'UserLogNET/**'
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]    
 jobs:
   publish:
     name: list on nuget

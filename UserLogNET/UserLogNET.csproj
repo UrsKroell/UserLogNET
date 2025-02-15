@@ -11,7 +11,6 @@
         <Summary>A dotnet SDK for UserLog.</Summary>
         <PackageTags>userlog dotnet c#</PackageTags>
         <PackageProjectUrl>https://github.com/UrsKroell/UserLogNET</PackageProjectUrl>
-        <PackageLicenseUrl>https://github.com/UrsKroell/UserLogNET/blob/master/LICENSE.md</PackageLicenseUrl>
         <RepositoryUrl>https://github.com/UrsKroell/UserLogNET</RepositoryUrl>
         <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
         <Copyright>Copyright (c) Urs Kröll 2025</Copyright>
