@@ -10,7 +10,7 @@ Docs: https://docs.getuserlog.com/
 ## Installation
 
 ```sh
-dotnet nuget add UserLogNET
+dotnet add package UserLogNET
 ```
 
 ## Usage
